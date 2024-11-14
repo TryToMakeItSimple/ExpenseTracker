@@ -7578,11 +7578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jadea\\OneDrive\\Desktop\\Final Project\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+      "projectUniqueName": "C:\\JADE\\CBC\\REPO, PROJECTS AND EXERCISES\\Final Project\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
       "projectName": "ExpenseTracker",
-      "projectPath": "C:\\Users\\jadea\\OneDrive\\Desktop\\Final Project\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
+      "projectPath": "C:\\JADE\\CBC\\REPO, PROJECTS AND EXERCISES\\Final Project\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
       "packagesPath": "C:\\Users\\jadea\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jadea\\OneDrive\\Desktop\\Final Project\\ExpenseTracker\\ExpenseTracker\\obj\\",
+      "outputPath": "C:\\JADE\\CBC\\REPO, PROJECTS AND EXERCISES\\Final Project\\ExpenseTracker\\ExpenseTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
